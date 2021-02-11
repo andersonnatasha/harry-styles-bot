@@ -1,1 +1,2 @@
-BANNED_WORDS = ("kane", "potter", "ron", "hermione", "meghan", "prince harry")
+BANNED_WORDS = set(["kane", "potter", "ron", "hermione",
+                    "meghan", "prince harry"])
